@@ -23,6 +23,7 @@ fun main() {
 ```
 
 1. Adds an element to the `Set`. 
+1. Adds three element to the `Mutable Set`.
 2. Returns a boolean value showing if the element was actually added.   
 3. Returns a string, based on function input parameter.
 4. Prints a success message: the new element is added to the `Set`.
